@@ -48,7 +48,7 @@ parent_url: /drive/
 
 ## Аккумуляторы
 
-- [Varmex](https://varmex.am/) - официальный дилер Varta, продает Varta, Energiser, Index
+- [Varmex](https://varmex.am/) - официальный дилер Varta, продает Varta, Energiser, Index. ⚠️ **Внимание:** есть негативный опыт - [отказ в гарантийном обслуживании](https://t.me/am_autoclub/62208) аккумулятора Varta, вышедшего из строя.
 
 Адреса магазинов:
 - Тигран Мец 46/4; телефон +374 10 572011

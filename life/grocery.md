@@ -46,6 +46,7 @@ display_toc: false
 - <i class="fa-brands fa-telegram"></i> [ТUT и ТАМ](https://t.me/tut8tam) — современная домашняя кухня в Ереване.
 - <i class="fa-brands fa-telegram"></i> [Love&Piece](https://t.me/love_and_piece_am) — Доставка домашней еды в Ереване.
 - <i class="fa-brands fa-telegram"></i> [WeFood](https://t.me/WeFood_am) — Доставка домашней еды в Ереване и Абовяне.
+- <i class="fa-brands fa-instagram"></i> [Eda Yerevan](https://www.instagram.com/eda_yerevan) — домашняя еда, рацион на три дня.
 - <i class="fa-brands fa-facebook-f"></i> [GGArmenia](https://www.facebook.com/GGArmenia)
 - <i class="fa-brands fa-facebook-f"></i> [shaqe.meat](https://www.facebook.com/shaqe.meat)
 {: class="list-emoji"}
