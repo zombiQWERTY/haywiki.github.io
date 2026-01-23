@@ -17,12 +17,12 @@ Disclaimer: информация на этом сайте написана не 
 
 <a class="btn btn-shortcut" href="/life/contacts.html"><span>🔗 💬 📞</span><br> Полезные сайты, чаты и контакты</a>
 <a class="btn btn-shortcut" href="/life/grocery.html"><span>🏬 🥫 🥕 🛵</span><br> Продукты, доставки, еда</a>
-<a class="btn btn-shortcut" href="/drive/"><span>🚘 🪪️ 🚓</span><br> Автомобили, права и штрафы</a>
+<a class="btn btn-shortcut" href="/drive/"><span>🚘 🆔 🚓</span><br> Автомобили, права и штрафы</a>
 <a class="btn btn-shortcut" href="/animals/"><span>🐕 🐈 🗺️</span><br> Переезд и жизнь с питомцем</a>
 <a class="btn btn-shortcut" href="/delivery/"><span>📦 🚚 🌍</span><br> Посылки, грузы, маркетплейсы</a>
 <a class="btn btn-shortcut" href="/life/healthcare.html"><span>🏥 💊 🦷 👓</span><br> Медицина и аптеки в Армении</a>
 <a class="btn btn-shortcut" href="/life/children.html"><span>🚸 🏫 🎢</span><br> Дети: образование и развлечения</a>
-<a class="btn btn-shortcut" href="/life/wellness.html"><span>🏋️‍♀️ 🚲️ 🏊 🥾</span><br> Спорт, бассейны, йога, походы</a>
+<a class="btn btn-shortcut" href="/life/wellness.html"><span>💪 🚲 🏊 🥾</span><br> Спорт, бассейны, йога, походы</a>
 {: class="shortcuts"}
 
 <div class="cards index">
