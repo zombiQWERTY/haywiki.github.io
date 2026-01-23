@@ -1,13 +1,18 @@
 ---
-title: Проверенные автосервисы в Ереване
+title: Проверенные автосервисы, шиномонтаж, кузовной ремонт, мойки и детейлинг в Ереване
 layout: page
 parent_title: Авто в Армении
 parent_url: /drive/
 ---
 
-## Автомобильные сервисы
+## Лучшие автосервисы
 
-- [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип-тюнинг, диагностика и любой ремонт легковых автомобилей, кроме кузовных работ. Адрес: [пр-кт Адмирала Исакова, 22/3](https://yandex.ru/maps/10262/yerevan/house/YE0YcgFkT0YOQFpqfX10eXRlZw==/). Очень хорошие отзывы от участников [нашего чата](https://t.me/am_autoclub).
+- Автосервис **Владимира** [@vladimir_iq_chip](https://t.me/vladimir_iq_chip) — чип-тюнинг, диагностика, шиномонтаж и любой ремонт легковых автомобилей, кроме кузовных работ. Адрес: [пр-кт Адмирала Исакова, 22/3](https://yandex.ru/maps/10262/yerevan/house/YE0YcgFkT0YOQFpqfX10eXRlZw==/). Очень хорошие отзывы от участников [нашего чата](https://t.me/am_autoclub).
+- Мастер **Антон** [@tonysxvx](https://t.me/tonysxvx) — механик с 10-летним опытом (двигатели, ходовая, диагностика). Специализация: Land Rover, Mercedes, Volvo, VAG-группа. Работает с любыми другими марками. Множество отзывов в [чате автомобилистов](https://t.me/am_autoclub).
+- **CarCraft** — мастер **Тигран**, телефон +37441626038. Покраска и кузовной ремонт. [Отзыв 1](https://t.me/am_autoclub/45244), [отзыв 2](https://t.me/am_autoclub/52213).
+- Мастер **Данил** [@WarEnek](https://t.me/WarEnek) — качественная мойка и детейлинг. [Отзыв 1](https://t.me/am_autoclub/193477), [отзыв 2](https://t.me/am_autoclub/188713), [отзыв 3](https://t.me/am_autoclub/167954) и множество отзывов в чате автомобилистов.
+
+## Автомобильные сервисы
 - [Autosan](http://www.autosan.am) — сход-развал, слесарный ремонт. Адрес: [ул. Давид-Бека 106/4](https://yandex.ru/maps/-/CCUHM6VB-A).
 - [Japan Parts](https://yandex.ru/maps/org/japan_parts/104997213917/) — автосервис и магазин запчастей для японских автомобилей на ул. Ростовян 9/4. **+374 99 225025** (Грант). [Отзыв участника чата](https://t.me/am_autoclub/16495).
 - [COOL SERVICE](http://www.list.am/item/17643118) — заправка и ремонт кондиционеров в Ереване. Адрес: Давташен, 2-й квартал, 26/11 [Рекомендация](https://t.me/am_autoclub/3814).
@@ -17,7 +22,7 @@ parent_url: /drive/
 - [Сервис по подушкам безопасности и ремням](https://yandex.com/maps/org/auto_repair_shop/200205183576/). Говорят только на армянском и английском. [Отзыв](https://t.me/am_autoclub/43424)
 - [Сервис по электромобилям и гибридам](https://yandex.com/maps/10262/yerevan/house/YE0YcwFiQEMOQFpqfX5wdX1nYQ==/) +37499280201, мастер Артак. [Отзывы](https://t.me/am_autoclub/45638)
 - [Автосервис на Манташяна](https://yandex.com/maps/org/uto_service/98827945161/). [Отзыв](https://t.me/am_autoclub/45248).
-- Частный мастер по автомобилям Volvo — [Ованнес](https://t.me/VolvoYerevan). [Отзыв](https://t.me/am_autoclub/53237).
+- Частный мастер по автомобилям Volvo — [Ованнес](https://t.me/Scandinaviancars). [Отзыв](https://t.me/am_autoclub/53237).
 - [Сервис автосигнализаций Pandora](https://yandex.ru/maps/org/pandora/135876427927/) +374 98 223464 (Арташес)
 - [DAS-Auto](https://yandex.com/maps/org/100009487098) — сервис для автомобилей Volkswagen. Мастер Армен +374 98 099303
 - [Автосервис Ovne](http://ovne.am/ru) — в последнее время появились противоречивые отзывы.
@@ -55,10 +60,16 @@ parent_url: /drive/
 ## Покраска и кузовной ремонт
 
 - Мастер **Степан**, телефон +37491625100, whatsapp +79958908514. [Отзыв](https://t.me/am_autoclub/41635)
-- Мастер **Тигран**, телефон +37441626038, также **Армен** +37499411000. [Отзыв 1](https://t.me/am_autoclub/45244), [отзыв 2](https://t.me/am_autoclub/52213).
-- Мастер **Данил**, телефон +37491015024. Жестянка, малярка, полировка. [Telegram](https://t.me/Miller_Territory)
+- Мастер **Армен**, телефон +37499411000.
 - Мастер **Вагэ**, телефон +37455787799. [Отзыв](https://t.me/am_autoclub/53233).
 - [улица Бахяна, 8](https://yandex.com/maps/10262/yerevan/) — ремонт вмятин без покраски. [Отзыв](https://t.me/am_autoclub/53792).
+
+## Автомойки и детейлинг
+
+- [Ovne](https://ovne.am/ru/content/2/) — автомойка и автосервис. О мойке очень хорошие отзывы.
+- [Детейлинг на парковке Россия Молла](https://www.facebook.com/parkingcarwasham/) — хорошие отзывы, удобное расположение.
+- [eliteavtolvacakayan](https://instagram.com/eliteavtolvacakayan) — детейлинг/мойка на проспекте Арцаха.
+- [Octo](https://www.instagram.com/octo_detailing/) — детейлинг/автомойка на Аштаракском шоссе. Есть возможность записаться на мойку на определенное время.
 
 ## Прочие автомобильные услуги
 

@@ -86,12 +86,10 @@ display_toc: false
 ## Взаимопомощь иммигрантов
 
 - <i class="fa-brands fa-telegram"></i> [Переезд в Армению - Взаимопомощь](https://t.me/+szFNNJqf1J42Zjhi)
-- <i class="fa-brands fa-telegram"></i> [2022 Relocation Армения](https://t.me/armrelo2022)
 - <i class="fa-brands fa-telegram"></i> [Автомобилисты в Армении](https://t.me/am_autoclub) — чат для переехавших в Армению автомобилистов.
 - <i class="fa-brands fa-telegram"></i> [Пограничный контроль](https://t.me/+yHACAsBxEXo4OGEy) — отчеты о пересечении границы РФ
 - <i class="fa-brands fa-telegram"></i> [Получение загранпаспорта РФ в Армении](https://t.me/zagranerevan)
 - <i class="fa-brands fa-telegram"></i> [Получение шенгенских виз в Армении](https://t.me/shengen_am)
-- <i class="fa-brands fa-telegram"></i> [Испанская виза: опыт и советы](https://t.me/+f7tCaipBngswZDUy)
 - <i class="fa-brands fa-telegram"></i> [Армения. Шенгенские визы](https://t.me/+ugu4XWmyacEyZGMy)
 {: class="list-emoji"}
 
@@ -120,7 +118,6 @@ display_toc: false
 - 🔗 [rate.am](https://rate.am) — все курсы валют в банках и обменниках
 - <i class="fa-brands fa-telegram"></i> [Курс драма (МИР/Rate.am/SAS)](https://t.me/armeniaCurrency) — отслеживание курсов армянского драма и самых выгодных способов обмена валюты.
 - <i class="fa-brands fa-telegram"></i> [Банки в Армении](https://t.me/+s2_G3BHv0E4xNjNi)
-- <i class="fa-brands fa-telegram"></i> [Армения Обмен Валют / Armenia exchange](https://t.me/armenia_exchanger)
 - <i class="fa-brands fa-telegram"></i> [Открытие юрлица в Армении](https://t.me/+TG55UcS6PjViOThi) — обсуждение вопросов открытия и ведения юрлиц (ип и ооо) в Армении.
 - <i class="fa-brands fa-telegram"></i> [Счета резидентов РФ за рубежом](https://t.me/+fVDnu0bGaqNiYTVi) ([канал](https://t.me/+RE0haAqcKiIyMmYy))
 - 📄 [Криптовалюты и крипто-обменники в Армении](../money/crypto.md)
@@ -145,7 +142,6 @@ display_toc: false
 ## Медицина и аптеки
 
 - 📄 [Медицина и аптеки в Армении](healthcare.md) — законы, скорая помощь, поликлиники, частные клиники, аптеки и прочее.
-- <i class="fa-brands fa-telegram"></i> [Медицина в Армении](https://t.me/armenianmedicine)
 {: class="list-emoji"}
 
 </div>
